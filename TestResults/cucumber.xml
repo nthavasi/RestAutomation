@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="6" time="29.7">
+<testcase classname="Login Functionality" name="Check the API response" time="3.798">
+<system-out><![CDATA[Given Read test Data from Excel for "Check the API response" and "test1"....passed
+When Request is sent and the Response is generated..........................passed
+And Validate the response status code.......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Functionality" name="Check the API response 2" time="1.576">
+<system-out><![CDATA[Given Read test Data from Excel for "Check the API response" and "test2"....passed
+When Request is sent and the Response is generated..........................passed
+And Validate the response status code.......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Functionality" name="Check the API response 3" time="0.718">
+<system-out><![CDATA[Given Read test Data from Excel for "Check the API response" and "test3"....passed
+When Request is sent and the Response is generated..........................passed
+And Validate the response status code.......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Functionality" name="Check the API response 4" time="0.674">
+<system-out><![CDATA[Given Read test Data from Excel for "Check the API response" and "test4"....passed
+When Request is sent and the Response is generated..........................passed
+And Validate the response status code.......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Functionality" name="Success-Login-2" time="0.671">
+<system-out><![CDATA[Given Read test Data from Excel for "Success-Login-2" and "test6"...........passed
+When Request is sent and the Response is generated..........................passed
+And Validate the response status code.......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login Functionality" name="Success-Login-2_2" time="21.7">
+<system-out><![CDATA[Given Read test Data from Excel for "Success-Login-2" and "test7"...........passed
+When Request is sent and the Response is generated..........................passed
+And Validate the response status code.......................................passed
+]]></system-out>
+</testcase>
+</testsuite>

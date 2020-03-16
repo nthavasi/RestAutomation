@@ -1,0 +1,350 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-03-16T09:15:10.891Z",
+        "line": 9,
+        "name": "Check the API response",
+        "description": "",
+        "id": "login-functionality;check-the-api-response;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 782000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Read test Data from Excel for \"Check the API response\" and \"test1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Check the API response\"",
+                  "offset": 30
+                },
+                {
+                  "val": "\"test1\"",
+                  "offset": 59
+                }
+              ],
+              "location": "stepDefinitions.BasicAPIResponseValidations.read_test_Data_from_Excel_for(java.lang.String,java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2929000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Request is sent and the Response is generated",
+            "match": {
+              "location": "stepDefinitions.BasicAPIResponseValidations.Request_is_sent_and_the_Response_is_generated()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 8000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Validate the response status code",
+            "match": {
+              "location": "stepDefinitions.BasicAPIResponseValidations.Validate_the_response_status_code()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-03-16T09:15:14.699Z",
+        "line": 10,
+        "name": "Check the API response",
+        "description": "",
+        "id": "login-functionality;check-the-api-response;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 100000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Read test Data from Excel for \"Check the API response\" and \"test2\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Check the API response\"",
+                  "offset": 30
+                },
+                {
+                  "val": "\"test2\"",
+                  "offset": 59
+                }
+              ],
+              "location": "stepDefinitions.BasicAPIResponseValidations.read_test_Data_from_Excel_for(java.lang.String,java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1474000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Request is sent and the Response is generated",
+            "match": {
+              "location": "stepDefinitions.BasicAPIResponseValidations.Request_is_sent_and_the_Response_is_generated()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Validate the response status code",
+            "match": {
+              "location": "stepDefinitions.BasicAPIResponseValidations.Validate_the_response_status_code()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-03-16T09:15:16.278Z",
+        "line": 11,
+        "name": "Check the API response",
+        "description": "",
+        "id": "login-functionality;check-the-api-response;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 36000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Read test Data from Excel for \"Check the API response\" and \"test3\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Check the API response\"",
+                  "offset": 30
+                },
+                {
+                  "val": "\"test3\"",
+                  "offset": 59
+                }
+              ],
+              "location": "stepDefinitions.BasicAPIResponseValidations.read_test_Data_from_Excel_for(java.lang.String,java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 680000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Request is sent and the Response is generated",
+            "match": {
+              "location": "stepDefinitions.BasicAPIResponseValidations.Request_is_sent_and_the_Response_is_generated()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Validate the response status code",
+            "match": {
+              "location": "stepDefinitions.BasicAPIResponseValidations.Validate_the_response_status_code()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-03-16T09:15:16.998Z",
+        "line": 12,
+        "name": "Check the API response",
+        "description": "",
+        "id": "login-functionality;check-the-api-response;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 36000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Read test Data from Excel for \"Check the API response\" and \"test4\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Check the API response\"",
+                  "offset": 30
+                },
+                {
+                  "val": "\"test4\"",
+                  "offset": 59
+                }
+              ],
+              "location": "stepDefinitions.BasicAPIResponseValidations.read_test_Data_from_Excel_for(java.lang.String,java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 637000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Request is sent and the Response is generated",
+            "match": {
+              "location": "stepDefinitions.BasicAPIResponseValidations.Request_is_sent_and_the_Response_is_generated()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Validate the response status code",
+            "match": {
+              "location": "stepDefinitions.BasicAPIResponseValidations.Validate_the_response_status_code()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-03-16T09:15:17.679Z",
+        "line": 20,
+        "name": "Success-Login-2",
+        "description": "",
+        "id": "login-functionality;success-login-2;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 40000000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Read test Data from Excel for \"Success-Login-2\" and \"test6\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Success-Login-2\"",
+                  "offset": 30
+                },
+                {
+                  "val": "\"test6\"",
+                  "offset": 52
+                }
+              ],
+              "location": "stepDefinitions.BasicAPIResponseValidations.read_test_Data_from_Excel_for(java.lang.String,java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 624000000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Request is sent and the Response is generated",
+            "match": {
+              "location": "stepDefinitions.BasicAPIResponseValidations.Request_is_sent_and_the_Response_is_generated()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "Validate the response status code",
+            "match": {
+              "location": "stepDefinitions.BasicAPIResponseValidations.Validate_the_response_status_code()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-03-16T09:15:18.351Z",
+        "line": 21,
+        "name": "Success-Login-2",
+        "description": "",
+        "id": "login-functionality;success-login-2;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 30000000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Read test Data from Excel for \"Success-Login-2\" and \"test7\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Success-Login-2\"",
+                  "offset": 30
+                },
+                {
+                  "val": "\"test7\"",
+                  "offset": 52
+                }
+              ],
+              "location": "stepDefinitions.BasicAPIResponseValidations.read_test_Data_from_Excel_for(java.lang.String,java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 21667000000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Request is sent and the Response is generated",
+            "match": {
+              "location": "stepDefinitions.BasicAPIResponseValidations.Request_is_sent_and_the_Response_is_generated()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "Validate the response status code",
+            "match": {
+              "location": "stepDefinitions.BasicAPIResponseValidations.Validate_the_response_status_code()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Login Functionality",
+    "description": "",
+    "id": "login-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/featureFiles/login.feature",
+    "tags": []
+  }
+]
